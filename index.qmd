@@ -1,5 +1,5 @@
 ---
-title: "Financial Reviews"
+title: "Financial Reviews Collection"
 author: "Coraline"
 
 execute:
@@ -14,6 +14,44 @@ bibliography: references.bib
 
 # Introduction
 
+# 2024
 
+## May
+
+### 2024.5.3
+
+ - Policy / Economy / Interest rates
+ 
+High inflation may last another two years unless rates rise again
+https://www.afr.com/policy/economy/high-inflation-may-last-another-two-years-unless-rates-rise-again-20240429-p5fnaa
+
+Australia is facing *persistently high inflation*, with economists warning that without higher interest rates, the inflation target may be elusive for at least two years. Recent consumer price index (CPI) data showed inflation was more stubborn than expected, making the Reserve Bank of Australia's decision last month to abandon raising interest rates look too hasty. These circumstances suggest that a rate cut is unlikely in the short term, and instead requires a more sustained and prudent monetary policy response.
+
+# April
+
+### 2024.4.23
+
+- Companies:
+
+- Industries:
+
+- Opinion & Analysis:
+
+
+
+### 2024.4.22
+
+- Companies: Transport/Aviation
+
+Make green fuel the new hydrogen, airlines and airports urge Labor
+
+It is promoting the development of hydrogen energy and sustainable aviation fuels through government investment and policy support (reducing dependence on imported fuels, although the cost of sustainable fuels is higher); 
+It is promoting the development of hydrogen energy and sustainable aviation fuels through technological progress and cost control. Widespread application of solar and wind energy (dramatically increasing the efficiency of solar modules and reducing their installation costs).
+
+- Industries:
+
+
+
+- Opinion & Analysis:
 
 ## References {.unnumbered}
